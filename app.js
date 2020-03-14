@@ -5,7 +5,7 @@
   
     
     <handlers>
-      <add name="iisnode" path="./routes/index.js" verb="*" modules="iisnode" />
+      <add name="iisnode" path="routes/index.js" verb="*" modules="iisnode" />
     </handlers>
    
     
